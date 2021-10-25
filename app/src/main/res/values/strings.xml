@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalculatorIntentWeb</string>
+    <string name="my_name_is_nick">My name is Nick</string>
+    <string name="filler">Filler</string>
+    <string name="web">WEB</string>
+    <string name="intent">INTENT</string>
+    <string name="calculator">CALCULATOR</string>
+    <string name="answer_here">Answer here</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="enter_First_number">Enter First Number</string>
+    <string name="addition">+</string>
+    <string name="division">/</string>
+    <string name="multiplication">*</string>
+    <string name="subtraction">-</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="dial">Dial</string>
+    <string name="share">Share</string>
+    <string name="email">Email</string>
+    <string name="stk">STK</string>
+    <string name="sms">SMS</string>
+</resources>
